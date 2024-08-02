@@ -19,7 +19,7 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2022 - Present"
+            date="2022 - 2024"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >

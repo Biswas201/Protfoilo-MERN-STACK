@@ -5,7 +5,7 @@
 
 .sidebar{
     height: 100vh;
-    background-color: #1e1e2c;
+    background-image: linear-gradient(to top, white, #7575d0);
     width: 90px;
     position: fixed;
 }
@@ -22,7 +22,7 @@
 }
 
 .sidebar-toggle-icons p svg{
-    background-color: #f29f67;
+    background-color: #5668da;
     color: white;
     margin-top: 30px;
 }

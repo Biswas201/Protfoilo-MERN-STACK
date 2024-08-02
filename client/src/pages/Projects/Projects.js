@@ -16,9 +16,9 @@ const Projects = () => {
       </h2>
       <hr />
       <p className="pb-3 text-center">
-      Here are my 4 projects which i have done BCA & MCA. Out of which my first project was <strong>Airlines Reservation System </strong> which was my BCA final year project.
+      Here are my 4 projects which i have done BCA & MCA. Out of which my first project was <strong>Online Programming Platform </strong> which was my BCA final year project.
       Then while studying MCA I did two private projects which are <strong>Doctor Appointment System</strong> & <strong>University Management System</strong>.
-      And also I have done my mini project which is <strong>BMI Calculator</strong> for Practice.
+      And also I have done my chat application project which is <strong>Real Time Chat Application</strong> for Practice.
       </p>
       </LightSpeed>
       {/* card design */}
@@ -27,23 +27,25 @@ const Projects = () => {
           <div className="col-md-4">
             <div className="card rounded">
               <div className="card-image">
-                <span className="card-notify-badge">Desktop Base Application(JAVA)</span>
+                <span className="card-notify-badge">MERN STACK</span>
                 <img src={ project1 } alt="project1" />
               </div>
               <div className="card-image-overly m-auto mt-3">
-                <span className="card-detail-badge">JAVA</span>
-                <span className="card-detail-badge">Apache Netbeans</span>
-                <span className="card-detail-badge">MySql</span>
+                <span className="card-detail-badge">ReactJs</span>
+                <span className="card-detail-badge">NodeJs</span>
+                <span className="card-detail-badge">ExpressJs</span>
+                <span className="card-detail-badge">MongoDB</span>
+
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
                   <h6 className="text-uppercase">
-                    AB Airlines Reservation System
+                    Online Programming Platform
                   </h6>
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://github.com/Biswas201/Airlines"
+                  href="https://github.com/Biswas201"
                 >
                   View
                 </a>
